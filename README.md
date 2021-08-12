@@ -6,7 +6,7 @@
 - S3 bucket: http://manual-deploy-bucket.s3-website-eu-west-1.amazonaws.com/
 - Cloudfront: https://d1o7h6m0i5im8o.cloudfront.net/
 
-Note: Both links above does not provide any resource as infrastructure was deleted due to the task description
+*Note: Both links above does not provide any resource as infrastructure was deleted due to the task description*
 
 ### Automated deployment links:
 - S3 bucket: http://auto-deploy-bucket-2.s3-website-us-east-1.amazonaws.com/
